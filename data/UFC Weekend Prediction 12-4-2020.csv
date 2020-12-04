@@ -1,0 +1,12 @@
+R_fighter,B_fighter,R_odds,B_odds,R_status,B_status,predicted_winner,favorite_win_prob,underdog_win_prob,ret_bet_B,ret_bet_R,ev_underdog,ev_favorite
+Jack Hermansson,Marvin Vettori,110,-134,underdog,favorite,Underdog,0.47,0.53,0.746268656716418,1.1,0.5830000000000001,0.35074626865671643
+Ovince Saint Preux,Jamahal Hill,140,-177,underdog,favorite,Underdog,0.49,0.51,0.5649717514124294,1.4,0.714,0.2768361581920904
+Gabriel Benitez,Justin Jaynes,-215,170,favorite,underdog,Favorite,0.58,0.42,1.7,0.46511627906976744,0.714,0.2697674418604651
+Montana De La Rosa,Taila Santos,175,-225,underdog,favorite,Favorite,0.57,0.43,0.4444444444444444,1.75,0.7525,0.2533333333333333
+Roman Dolidze,John Allan,-200,160,favorite,underdog,Favorite,0.66,0.34,1.6,0.5,0.544,0.33
+Nate Landwehr,Movsar Evloev,400,-590,underdog,favorite,Favorite,0.64,0.36,0.1694915254237288,4.0,1.44,0.10847457627118644
+Louis Smolka,Jose Quinonez,-139,112,favorite,underdog,Favorite,0.58,0.42,1.12,0.7194244604316546,0.47040000000000004,0.41726618705035967
+Matt Wiman,Jordan Leavitt,310,-420,underdog,favorite,Favorite,0.77,0.23,0.23809523809523808,3.1,0.7130000000000001,0.18333333333333332
+Jimmy Flick,Cody Durden,-182,145,favorite,underdog,Favorite,0.63,0.37,1.45,0.5494505494505495,0.5365,0.3461538461538462
+Ilia Topuria,Damon Jackson,-275,210,favorite,underdog,Favorite,0.62,0.38,2.1,0.36363636363636365,0.798,0.22545454545454546
+Gian Villante,Jake Collier,-200,160,favorite,underdog,Favorite,0.71,0.29,1.6,0.5,0.46399999999999997,0.355

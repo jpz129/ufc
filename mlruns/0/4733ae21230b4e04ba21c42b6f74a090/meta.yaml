@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/jpzam/Projects/ufc/mlruns/0/4733ae21230b4e04ba21c42b6f74a090/artifacts
+end_time: 1607118468967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 4733ae21230b4e04ba21c42b6f74a090
+run_uuid: 4733ae21230b4e04ba21c42b6f74a090
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1607118451135
+status: 3
+tags: []
+user_id: jpzam
